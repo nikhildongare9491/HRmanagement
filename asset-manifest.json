@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HRmanagement/static/css/main.f9b695ab.css",
+    "main.js": "/HRmanagement/static/js/main.9b24dd92.js",
+    "static/js/787.b1a832d6.chunk.js": "/HRmanagement/static/js/787.b1a832d6.chunk.js",
+    "index.html": "/HRmanagement/index.html",
+    "main.f9b695ab.css.map": "/HRmanagement/static/css/main.f9b695ab.css.map",
+    "main.9b24dd92.js.map": "/HRmanagement/static/js/main.9b24dd92.js.map",
+    "787.b1a832d6.chunk.js.map": "/HRmanagement/static/js/787.b1a832d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b695ab.css",
+    "static/js/main.9b24dd92.js"
+  ]
+}
